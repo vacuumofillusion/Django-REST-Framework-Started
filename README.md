@@ -1,23 +1,24 @@
-# NumPy Simple Started(NumPy简单入门)
+# Django REST Framework入门文档翻译
 
-本项为我个人在学习Numpy时，顺便翻译的官方新手教程，亦在于为完全初学者提供简单的入门教程
+本项为我个人在学习Django REST Framework时，顺便翻译的官方新手教程，亦在于为完全初学者提供简单的入门教程。
 
-> 本项目使用的翻译工具为各种AI
+本项目使用AI来翻译。
 
-## 推荐学习顺序
+## Django REST Framework
 
-1. Numpy the absolute basics for beginners
+官网地址：https://www.django-rest-framework.org/
 
-> 如这个文章的题目一样，对于完全没有接触过Numpy的新人来说，这个文章推荐作为了解Numpy的第一篇文章，该文章把Numpy的特性都简单的介绍了，并且配有让人易于理解的图片，对新手非常友好
+## 简介
 
-2. Numpy quickstart
+Django REST framework 是一个强大且灵活的用于构建Web API的工具包。
 
-> 跟上一篇一样是Numpy的入门介绍，在看过了absolute beginners之后再阅读此文，此文某些内容比absolute beginners稍微复杂一点
+以下是你可能想要使用REST framework的一些原因：
 
-3. Numpy tutorial by Nicolas P.Rougier
+* Web可浏览API为你的开发者带来了极大的易用性。
+* 支持OAuth1a和OAuth2的认证策略包。
+* 支持ORM和非ORM数据源的序列化。
+* 完全可定制——如果你不需要更强大的功能，只需使用常规的基于函数的视图即可。
+* 详尽的文档和强大的社区支持。
+* 被包括Mozilla、Red Hat、Heroku和Eventbrite等国际知名公司使用并信任。
 
-> 推荐阅读，当你阅读了新手文档后，大致知道Numpy能做什么后再来看此文，此文的好处是介绍了Numpy如何作用于一个实际的项目，有一个项目叫“生命的游戏”，是模拟一个细胞生存的系统，这个系统我们可以使用python或者numpy来实现，让你真正明白了numpy在做这些计算时的优势。并且此文制作了很多图片来帮助理解Numpy的功能，对新手友好
 
-4. 100 Numpy exercices
-
-> 100道Numpy的练习题，题目由简单至难，有3个版本，分别为题目版，带提示版，带答案版，建议使用Jupyter Notebook来练习，如果你能够解答这些练习题，那么说明你对Numpy的学习有一定的成效
